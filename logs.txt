@@ -1,0 +1,1027 @@
+
+C:\Users\krama\eclipse-workspace\gold_mine>java -jar target/gold_mine-1.0-SNAPSHOT-jar-with-dependencies.jar
+New Worker #0 was created  ++++++++++++++
+New Worker #1 was created  ++++++++++++++
+New Worker #2 was created  ++++++++++++++
+New Worker #3 was created  ++++++++++++++
+New Worker #4 was created  ++++++++++++++
+Worker #3 MINED 3 golds ----------------
+As result, it remains 997 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 994 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 991 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 988 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 985 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 982 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 979 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 976 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 973 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 970 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 967 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 964 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 961 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 958 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 955 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 952 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 949 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 946 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 943 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 940 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 937 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 934 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 931 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 928 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 925 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 922 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 919 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 916 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 913 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 910 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 907 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 904 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 901 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 898 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 895 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 892 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 889 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 886 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 883 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 880 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 877 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 874 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 871 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 868 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 865 gold in Gold mine
+
+Barack creates 1 worker in 10 second...
+New Worker #6 was created  ++++++++++++++
+Worker #3 MINED 3 golds ----------------
+As result, it remains 862 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 859 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 856 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 853 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 850 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 847 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 844 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 841 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 838 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 835 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 832 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 829 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 826 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 823 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 820 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 817 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 814 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 811 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 808 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 805 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 802 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 799 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 796 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 793 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 790 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 787 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 784 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 781 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 778 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 775 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 772 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 769 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 766 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 763 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 760 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 757 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 754 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 751 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 748 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 745 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 742 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 739 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 736 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 733 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 730 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 727 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 724 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 721 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 718 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 715 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 712 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 709 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 706 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 703 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 700 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 697 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 694 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 691 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 688 gold in Gold mine
+
+Barack creates 1 worker in 10 second...
+New Worker #7 was created  ++++++++++++++
+Worker #6 MINED 3 golds ----------------
+As result, it remains 685 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 682 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 679 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 676 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 673 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 670 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 667 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 664 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 661 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 658 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 655 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 652 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 649 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 646 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 643 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 640 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 637 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 634 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 631 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 628 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 625 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 622 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 619 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 616 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 613 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 610 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 607 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 604 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 601 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 598 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 595 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 592 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 589 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 586 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 583 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 580 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 577 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 574 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 571 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 568 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 565 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 562 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 559 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 556 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 553 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 550 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 547 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 544 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 541 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 538 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 535 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 532 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 529 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 526 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 523 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 520 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 517 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 514 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 511 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 508 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 505 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 502 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 499 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 496 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 493 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 490 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 487 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 484 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 481 gold in Gold mine
+
+Barack creates 1 worker in 10 second...
+New Worker #8 was created  ++++++++++++++
+Worker #7 MINED 3 golds ----------------
+As result, it remains 478 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 475 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 472 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 469 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 466 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 463 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 460 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 457 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 454 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 451 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 448 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 445 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 442 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 439 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 436 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 433 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 430 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 427 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 424 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 421 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 418 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 415 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 412 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 409 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 406 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 403 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 400 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 397 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 394 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 391 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 388 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 385 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 382 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 379 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 376 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 373 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 370 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 367 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 364 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 361 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 358 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 355 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 352 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 349 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 346 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 343 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 340 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 337 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 334 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 331 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 328 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 325 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 322 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 319 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 316 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 313 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 310 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 307 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 304 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 301 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 298 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 295 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 292 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 289 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 286 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 283 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 280 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 277 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 274 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 271 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 268 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 265 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 262 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 259 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 256 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 253 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 250 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 247 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 244 gold in Gold mine
+
+Barack creates 1 worker in 10 second...
+New Worker #9 was created  ++++++++++++++
+Worker #8 MINED 3 golds ----------------
+As result, it remains 241 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 238 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 235 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 232 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 229 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 226 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 223 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 220 gold in Gold mine
+
+Worker #9 MINED 3 golds ----------------
+As result, it remains 217 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 214 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 211 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 208 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 205 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 202 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 199 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 196 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 193 gold in Gold mine
+
+Worker #9 MINED 3 golds ----------------
+As result, it remains 190 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 187 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 184 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 181 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 178 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 175 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 172 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 169 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 166 gold in Gold mine
+
+Worker #9 MINED 3 golds ----------------
+As result, it remains 163 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 160 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 157 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 154 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 151 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 148 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 145 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 142 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 139 gold in Gold mine
+
+Worker #9 MINED 3 golds ----------------
+As result, it remains 136 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 133 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 130 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 127 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 124 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 121 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 118 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 115 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 112 gold in Gold mine
+
+Worker #9 MINED 3 golds ----------------
+As result, it remains 109 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 106 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 103 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 100 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 97 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 94 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 91 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 88 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 85 gold in Gold mine
+
+Worker #9 MINED 3 golds ----------------
+As result, it remains 82 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 79 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 76 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 73 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 70 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 67 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 64 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 61 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 58 gold in Gold mine
+
+Worker #9 MINED 3 golds ----------------
+As result, it remains 55 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 52 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 49 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 46 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 43 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 40 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 37 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 34 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 31 gold in Gold mine
+
+Worker #9 MINED 3 golds ----------------
+As result, it remains 28 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 25 gold in Gold mine
+
+Worker #7 MINED 3 golds ----------------
+As result, it remains 22 gold in Gold mine
+
+Worker #6 MINED 3 golds ----------------
+As result, it remains 19 gold in Gold mine
+
+Worker #3 MINED 3 golds ----------------
+As result, it remains 16 gold in Gold mine
+
+Worker #4 MINED 3 golds ----------------
+As result, it remains 13 gold in Gold mine
+
+Worker #2 MINED 3 golds ----------------
+As result, it remains 10 gold in Gold mine
+
+Worker #0 MINED 3 golds ----------------
+As result, it remains 7 gold in Gold mine
+
+Worker #1 MINED 3 golds ----------------
+As result, it remains 4 gold in Gold mine
+
+Worker #9 MINED 3 golds ----------------
+As result, it remains 1 gold in Gold mine
+
+Worker #8 MINED 3 golds ----------------
+As result, it remains 0 gold in Gold mine
+
+THERE ISN'T ANY GOLD in the gold mind...Worker #8 STOPS to work !!!!!!!!!
+THERE ISN'T ANY GOLD in the gold mind...Worker #7 STOPS to work !!!!!!!!!
+THERE ISN'T ANY GOLD in the gold mind...Worker #6 STOPS to work !!!!!!!!!
+THERE ISN'T ANY GOLD in the gold mind...Worker #3 STOPS to work !!!!!!!!!
+THERE ISN'T ANY GOLD in the gold mind...Worker #4 STOPS to work !!!!!!!!!
+THERE ISN'T ANY GOLD in the gold mind...Worker #2 STOPS to work !!!!!!!!!
+THERE ISN'T ANY GOLD in the gold mind...Worker #0 STOPS to work !!!!!!!!!
+THERE ISN'T ANY GOLD in the gold mind...Worker #1 STOPS to work !!!!!!!!!
+Barack STOPS to create workers ...
+THERE ISN'T ANY GOLD in the gold mind...Worker #9 STOPS to work !!!!!!!!!
